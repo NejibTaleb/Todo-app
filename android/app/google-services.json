@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71951560251",
+    "project_id": "nejib-project",
+    "storage_bucket": "nejib-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71951560251:android:77fbe435463d5adf79361e",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71951560251-7224ht3vrv55v1pstia1hbfvlc3se4a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQqcH7DU3fIEPZkPIqmzCfcZFuTgOGGyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71951560251-7224ht3vrv55v1pstia1hbfvlc3se4a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
